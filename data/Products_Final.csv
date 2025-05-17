@@ -1,0 +1,27 @@
+product_id,product_name,category,description,price
+0,Yam,Tubers,Yam - Premium quality,9.68
+1,Cassava,Tubers,Cassava - Premium quality,2.5
+2,Sweet Potato,Tubers,Sweet Potato - Premium quality,31.1
+3,Egusi,Spices,Egusi - Premium quality,12.46
+4,Suya Spice,Spices,Suya Spice - Premium quality,12.08
+5,Tumeric Powder,Spices,Tumeric Powder - Premium quality,4.22
+6,Plantain,Fruits,Plantain - Premium quality,24.91
+7,Orange,Fruits,Orange - Premium quality,25.61
+8,Banana,Fruits,Banana - Premium quality,36.19
+9,Jollof Rice Pack,Grains,Jollof Rice Pack - Premium quality,32.37
+10,Basmati Rice,Grains,Basmati Rice - Premium quality,7.34
+11,Palm Oil,Oil,Palm Oil - Premium quality,15.4
+12,Groundnut Oil,Oil,Groundnut Oil - Premium quality,14.63
+13,Ogbono,Seeds,Ogbono - Premium quality,2.82
+14,Beans,Legumes,Beans - Premium quality,19.56
+15,Stockfish,Proteins,Stockfish - Premium quality,47.78
+16,Dried Shrimps,Proteins,Dried Shrimps - Premium quality,20.32
+17,Chin Chin,Snacks,Chin Chin - Premium quality,2.2
+18,Plantain Chips,Snacks,Plantain Chips - Premium quality,9.46
+19,Coconut Candy,Snacks,Coconut Candy - Premium quality,1.98
+20,Toilet Roll,Household,Toilet Roll - Premium quality,30.73
+21,Laundry Soap,Household,Laundry Soap - Premium quality,28.99
+22,Dishwashing Liquid,Household,Dishwashing Liquid - Premium quality,16.62
+23,Indomie Noodles,Convenience,Indomie Noodles - Premium quality,9.96
+24,Sardines,Convenience,Sardines - Premium quality,17.95
+25,Spaghetti,Convenience,Spaghetti - Premium quality,17.0

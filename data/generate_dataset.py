@@ -119,7 +119,7 @@ payments_df_fixed, purchases_df_fixed = generate_consistent_payments_and_purchas
 )
 
 # Save to CSV
-products_df_full.to_csv("data/Products_Final.csv", index=False)
-customers_df_full.to_csv("data/Customers_Final.csv", index=False)
-payments_df_fixed.to_csv("data/Payments_Final.csv", index=False)
-purchases_df_fixed.to_csv("data/Purchases_Final.csv", index=False)
+products_df_full.to_csv("Products_Final.csv", index=False)
+customers_df_full.to_csv("Customers_Final.csv", index=False)
+payments_df_fixed.to_csv("Payments_Final.csv", index=False)
+purchases_df_fixed.to_csv("Purchases_Final.csv", index=False)

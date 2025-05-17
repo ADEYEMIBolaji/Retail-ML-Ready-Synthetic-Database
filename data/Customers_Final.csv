@@ -1,0 +1,1001 @@
+customer_id,gender,age,marital_status,occupation,location,first_purchase_date,preferred_payment
+0,Male,35,Married,Analyst,Leeds,2023-08-08,Mobile Money
+1,Male,42,Single,Doctor,London,2024-09-26,Card
+2,Female,43,Single,Trader,Leeds,2024-02-21,Cash
+3,Female,37,Married,Trader,Glasgow,2024-11-19,Mobile Money
+4,Female,51,Married,Engineer,Glasgow,2024-11-28,Card
+5,Male,21,Single,Analyst,Manchester,2024-06-21,Cash
+6,Female,30,Married,Doctor,Manchester,2024-11-29,Card
+7,Female,59,Single,Teacher,Glasgow,2023-09-20,Cash
+8,Female,38,Married,Trader,Glasgow,2024-01-24,Mobile Money
+9,Male,29,Married,Doctor,Leeds,2023-12-04,Card
+10,Female,20,Single,Analyst,Glasgow,2024-09-29,Card
+11,Male,43,Single,Trader,London,2023-09-06,Mobile Money
+12,Female,45,Single,Teacher,Birmingham,2025-04-12,Mobile Money
+13,Male,30,Married,Doctor,Manchester,2023-11-10,Mobile Money
+14,Male,26,Married,Trader,Birmingham,2023-12-01,Cash
+15,Male,42,Single,Engineer,London,2023-07-18,Mobile Money
+16,Male,54,Married,Analyst,Manchester,2023-12-03,Mobile Money
+17,Female,36,Married,Doctor,Birmingham,2023-08-29,Card
+18,Male,43,Single,Trader,Leeds,2025-02-16,Mobile Money
+19,Male,28,Married,Engineer,Leeds,2023-11-26,Cash
+20,Male,28,Married,Engineer,Leeds,2023-12-30,Cash
+21,Female,50,Married,Analyst,Birmingham,2024-11-29,Card
+22,Male,25,Single,Trader,Leeds,2024-03-19,Mobile Money
+23,Female,60,Married,Doctor,Leeds,2025-04-16,Mobile Money
+24,Female,30,Married,Trader,Leeds,2024-10-02,Mobile Money
+25,Male,48,Married,Doctor,London,2024-04-05,Mobile Money
+26,Male,46,Single,Analyst,Glasgow,2024-07-07,Cash
+27,Male,29,Married,Engineer,London,2024-03-02,Cash
+28,Female,34,Married,Analyst,Glasgow,2025-02-27,Mobile Money
+29,Female,47,Married,Engineer,Manchester,2025-02-23,Card
+30,Female,38,Married,Engineer,London,2023-08-08,Cash
+31,Male,33,Married,Trader,Leeds,2025-01-23,Cash
+32,Female,33,Married,Doctor,Birmingham,2024-11-16,Card
+33,Male,60,Married,Analyst,Birmingham,2023-06-17,Mobile Money
+34,Male,45,Married,Engineer,London,2024-04-17,Cash
+35,Male,44,Single,Trader,Birmingham,2025-01-08,Card
+36,Female,41,Married,Analyst,Manchester,2023-08-10,Cash
+37,Male,36,Single,Analyst,Manchester,2024-05-20,Mobile Money
+38,Male,41,Single,Teacher,Manchester,2024-01-31,Card
+39,Female,46,Married,Doctor,Birmingham,2024-07-25,Mobile Money
+40,Female,23,Married,Teacher,Manchester,2025-02-04,Cash
+41,Male,52,Married,Trader,Birmingham,2024-04-24,Card
+42,Female,55,Single,Teacher,Glasgow,2024-07-16,Card
+43,Female,47,Married,Engineer,Manchester,2024-11-21,Cash
+44,Male,27,Married,Analyst,Glasgow,2024-06-08,Cash
+45,Female,30,Single,Teacher,Leeds,2024-01-18,Card
+46,Female,38,Married,Doctor,London,2024-11-17,Mobile Money
+47,Male,41,Single,Teacher,London,2024-04-27,Mobile Money
+48,Male,57,Single,Analyst,Leeds,2024-05-17,Mobile Money
+49,Female,61,Married,Trader,London,2024-03-15,Cash
+50,Male,27,Single,Trader,Manchester,2025-04-16,Card
+51,Male,57,Married,Engineer,Leeds,2024-12-22,Cash
+52,Male,58,Single,Teacher,Manchester,2023-10-04,Card
+53,Female,53,Married,Trader,Birmingham,2023-11-07,Cash
+54,Male,23,Single,Analyst,Glasgow,2023-11-15,Card
+55,Female,63,Married,Teacher,Manchester,2024-02-13,Cash
+56,Male,33,Single,Engineer,Leeds,2023-08-03,Mobile Money
+57,Male,20,Single,Doctor,Manchester,2025-01-16,Card
+58,Female,63,Single,Analyst,Leeds,2023-10-25,Cash
+59,Male,44,Married,Teacher,Birmingham,2023-07-07,Mobile Money
+60,Female,20,Single,Teacher,London,2024-03-27,Cash
+61,Male,26,Married,Doctor,London,2023-11-10,Card
+62,Male,25,Married,Analyst,Leeds,2023-07-18,Cash
+63,Male,37,Single,Engineer,Manchester,2024-11-09,Cash
+64,Male,58,Single,Trader,Glasgow,2025-03-17,Card
+65,Male,55,Married,Doctor,Birmingham,2023-10-30,Card
+66,Male,52,Single,Analyst,Manchester,2024-11-10,Mobile Money
+67,Male,39,Single,Analyst,Leeds,2025-01-14,Mobile Money
+68,Female,47,Married,Trader,Leeds,2024-08-23,Cash
+69,Male,54,Single,Trader,Manchester,2025-01-29,Mobile Money
+70,Female,31,Married,Trader,London,2024-11-25,Mobile Money
+71,Female,23,Single,Trader,London,2023-12-21,Cash
+72,Female,35,Single,Analyst,Birmingham,2024-11-02,Mobile Money
+73,Female,57,Single,Teacher,Leeds,2023-09-05,Cash
+74,Male,58,Single,Teacher,Leeds,2024-08-14,Cash
+75,Female,44,Single,Trader,Birmingham,2024-02-12,Card
+76,Female,39,Single,Analyst,Glasgow,2023-10-13,Mobile Money
+77,Male,51,Married,Engineer,Manchester,2024-11-27,Mobile Money
+78,Female,26,Married,Engineer,Glasgow,2024-05-30,Mobile Money
+79,Female,58,Married,Engineer,London,2023-07-30,Mobile Money
+80,Female,50,Married,Trader,Glasgow,2025-01-19,Mobile Money
+81,Female,36,Married,Trader,Birmingham,2023-08-14,Cash
+82,Female,58,Married,Engineer,Leeds,2024-05-27,Mobile Money
+83,Female,48,Single,Teacher,Leeds,2025-02-26,Cash
+84,Male,47,Married,Doctor,Birmingham,2024-10-24,Mobile Money
+85,Male,36,Single,Engineer,London,2024-09-06,Cash
+86,Female,64,Married,Trader,Birmingham,2024-05-14,Cash
+87,Female,43,Single,Analyst,Glasgow,2023-11-19,Cash
+88,Male,31,Single,Trader,Leeds,2023-09-09,Cash
+89,Male,26,Married,Doctor,Glasgow,2023-08-17,Card
+90,Female,63,Single,Trader,Glasgow,2024-11-14,Mobile Money
+91,Female,42,Single,Trader,Leeds,2023-06-17,Cash
+92,Male,51,Single,Engineer,London,2023-08-25,Cash
+93,Female,59,Married,Engineer,London,2024-12-23,Card
+94,Female,60,Single,Doctor,Leeds,2024-04-30,Cash
+95,Male,41,Single,Engineer,Manchester,2024-01-01,Mobile Money
+96,Male,46,Married,Teacher,Birmingham,2024-04-16,Card
+97,Female,60,Married,Engineer,Manchester,2024-04-21,Mobile Money
+98,Female,36,Married,Engineer,Leeds,2025-02-24,Mobile Money
+99,Male,24,Single,Teacher,Manchester,2023-10-19,Card
+100,Male,31,Single,Engineer,Leeds,2023-09-11,Mobile Money
+101,Male,40,Married,Engineer,Manchester,2023-06-14,Mobile Money
+102,Male,47,Married,Engineer,Birmingham,2023-06-13,Card
+103,Male,19,Single,Engineer,Manchester,2023-12-16,Cash
+104,Female,22,Single,Teacher,Glasgow,2024-12-14,Card
+105,Male,26,Single,Engineer,Birmingham,2024-04-22,Mobile Money
+106,Female,42,Single,Analyst,Birmingham,2025-01-27,Card
+107,Female,65,Single,Teacher,Birmingham,2024-02-16,Cash
+108,Male,60,Married,Trader,Birmingham,2023-10-01,Mobile Money
+109,Female,42,Single,Teacher,London,2023-12-13,Card
+110,Male,54,Married,Engineer,London,2024-06-01,Card
+111,Male,49,Married,Doctor,Manchester,2024-03-20,Mobile Money
+112,Male,43,Single,Trader,Manchester,2023-10-04,Cash
+113,Male,50,Single,Engineer,Leeds,2024-10-07,Cash
+114,Female,23,Married,Analyst,Glasgow,2024-09-08,Card
+115,Female,21,Single,Trader,Leeds,2023-12-30,Mobile Money
+116,Male,50,Married,Engineer,Birmingham,2024-10-17,Mobile Money
+117,Female,65,Married,Engineer,Glasgow,2025-02-25,Mobile Money
+118,Female,59,Single,Trader,Glasgow,2024-01-27,Card
+119,Female,29,Married,Trader,Leeds,2025-03-13,Cash
+120,Female,24,Single,Teacher,Leeds,2023-06-21,Card
+121,Female,56,Married,Teacher,Birmingham,2024-02-23,Card
+122,Male,56,Single,Engineer,London,2024-12-03,Cash
+123,Male,63,Married,Teacher,Manchester,2025-01-14,Mobile Money
+124,Female,29,Married,Teacher,Glasgow,2024-02-06,Card
+125,Female,65,Married,Trader,Leeds,2024-05-24,Card
+126,Male,50,Single,Trader,London,2023-07-23,Cash
+127,Male,26,Single,Teacher,Leeds,2023-07-15,Mobile Money
+128,Female,57,Single,Analyst,Leeds,2023-10-03,Cash
+129,Male,55,Married,Trader,Leeds,2023-07-23,Cash
+130,Female,29,Single,Engineer,London,2025-01-01,Cash
+131,Male,32,Single,Analyst,Leeds,2023-10-23,Card
+132,Male,29,Single,Teacher,London,2024-06-20,Mobile Money
+133,Female,28,Married,Doctor,Birmingham,2023-08-29,Card
+134,Male,18,Single,Teacher,Birmingham,2024-11-28,Mobile Money
+135,Female,48,Married,Teacher,Leeds,2024-08-14,Mobile Money
+136,Male,64,Married,Teacher,Manchester,2025-03-17,Mobile Money
+137,Male,31,Single,Analyst,London,2025-03-30,Mobile Money
+138,Male,33,Married,Teacher,Glasgow,2024-06-28,Cash
+139,Female,58,Single,Analyst,Leeds,2023-07-28,Mobile Money
+140,Male,18,Married,Doctor,Leeds,2025-03-03,Mobile Money
+141,Male,43,Married,Doctor,Manchester,2024-04-27,Cash
+142,Male,62,Married,Analyst,Birmingham,2023-11-29,Card
+143,Female,43,Married,Trader,Glasgow,2024-04-26,Mobile Money
+144,Male,58,Married,Doctor,Manchester,2023-12-24,Cash
+145,Female,18,Married,Teacher,Leeds,2023-05-22,Mobile Money
+146,Male,34,Married,Engineer,Manchester,2024-06-10,Cash
+147,Female,28,Married,Teacher,Birmingham,2024-04-28,Mobile Money
+148,Female,61,Single,Analyst,Leeds,2024-06-23,Mobile Money
+149,Female,44,Married,Doctor,London,2023-10-22,Cash
+150,Male,34,Single,Engineer,Leeds,2025-02-22,Cash
+151,Male,26,Married,Analyst,Manchester,2024-04-23,Mobile Money
+152,Male,44,Married,Doctor,London,2023-10-10,Cash
+153,Male,44,Married,Analyst,London,2024-09-02,Cash
+154,Female,40,Married,Trader,Glasgow,2025-04-12,Card
+155,Female,49,Single,Doctor,Birmingham,2024-11-02,Mobile Money
+156,Female,60,Single,Trader,Manchester,2023-12-15,Cash
+157,Male,37,Single,Teacher,London,2023-07-07,Card
+158,Female,29,Single,Engineer,Glasgow,2025-03-14,Card
+159,Male,33,Single,Trader,London,2024-05-04,Card
+160,Male,38,Married,Analyst,London,2024-07-24,Mobile Money
+161,Male,23,Married,Teacher,Birmingham,2025-02-27,Card
+162,Female,42,Married,Analyst,Glasgow,2024-03-30,Mobile Money
+163,Male,50,Single,Trader,London,2024-05-21,Cash
+164,Female,30,Married,Engineer,Birmingham,2023-10-07,Cash
+165,Male,64,Single,Teacher,London,2024-08-06,Mobile Money
+166,Male,52,Married,Trader,Glasgow,2025-04-14,Mobile Money
+167,Female,44,Single,Trader,Birmingham,2024-10-13,Cash
+168,Female,39,Single,Engineer,Manchester,2024-12-09,Card
+169,Female,19,Married,Teacher,Leeds,2025-04-15,Cash
+170,Male,56,Married,Doctor,Birmingham,2025-02-13,Card
+171,Male,53,Married,Engineer,Birmingham,2024-04-11,Cash
+172,Female,23,Single,Trader,Manchester,2023-06-27,Mobile Money
+173,Female,57,Single,Analyst,Leeds,2025-03-24,Card
+174,Female,31,Married,Teacher,London,2024-10-23,Card
+175,Female,36,Single,Analyst,Leeds,2023-11-11,Card
+176,Female,43,Married,Doctor,Manchester,2024-11-27,Mobile Money
+177,Female,25,Single,Trader,Birmingham,2024-02-01,Card
+178,Female,23,Single,Teacher,Leeds,2023-08-12,Card
+179,Female,33,Married,Doctor,Birmingham,2025-03-30,Card
+180,Male,63,Married,Doctor,Manchester,2024-08-01,Card
+181,Female,28,Single,Engineer,Glasgow,2024-08-06,Mobile Money
+182,Female,65,Married,Doctor,Manchester,2024-02-06,Card
+183,Male,21,Married,Doctor,Birmingham,2024-07-12,Card
+184,Male,44,Married,Trader,Leeds,2024-04-22,Card
+185,Male,46,Single,Analyst,Glasgow,2023-08-13,Cash
+186,Male,28,Married,Analyst,Leeds,2023-09-29,Cash
+187,Male,40,Married,Trader,Glasgow,2023-08-17,Card
+188,Female,36,Married,Doctor,Birmingham,2025-03-14,Mobile Money
+189,Male,51,Married,Trader,Leeds,2024-07-24,Mobile Money
+190,Male,18,Married,Analyst,Leeds,2023-07-20,Mobile Money
+191,Female,59,Married,Doctor,Manchester,2023-05-19,Mobile Money
+192,Male,21,Married,Trader,London,2025-01-01,Mobile Money
+193,Female,56,Married,Trader,Leeds,2025-02-23,Mobile Money
+194,Male,39,Married,Analyst,Birmingham,2024-08-07,Mobile Money
+195,Male,22,Married,Trader,Birmingham,2023-09-18,Cash
+196,Female,24,Single,Engineer,Birmingham,2024-01-01,Cash
+197,Male,61,Single,Teacher,Birmingham,2025-01-25,Mobile Money
+198,Male,33,Married,Teacher,Birmingham,2023-11-28,Card
+199,Female,34,Married,Analyst,Glasgow,2023-11-04,Card
+200,Female,60,Married,Doctor,Birmingham,2024-09-18,Card
+201,Female,50,Single,Engineer,Glasgow,2024-12-03,Cash
+202,Female,24,Single,Engineer,Birmingham,2024-04-18,Card
+203,Male,60,Single,Trader,Glasgow,2023-09-25,Cash
+204,Female,58,Single,Engineer,Manchester,2025-01-31,Cash
+205,Female,22,Single,Teacher,Manchester,2025-02-19,Cash
+206,Male,50,Single,Analyst,London,2024-12-14,Card
+207,Female,34,Married,Doctor,Glasgow,2024-04-18,Mobile Money
+208,Male,44,Married,Trader,Glasgow,2024-09-07,Cash
+209,Male,21,Married,Analyst,Birmingham,2024-12-14,Mobile Money
+210,Female,24,Married,Trader,Glasgow,2024-05-16,Mobile Money
+211,Female,52,Married,Teacher,Manchester,2023-06-15,Card
+212,Male,36,Married,Analyst,London,2024-12-19,Card
+213,Female,27,Married,Analyst,London,2024-05-24,Cash
+214,Female,42,Married,Teacher,Manchester,2023-07-09,Cash
+215,Male,61,Single,Trader,Birmingham,2023-06-01,Mobile Money
+216,Male,60,Married,Engineer,Glasgow,2024-11-04,Mobile Money
+217,Female,65,Married,Trader,London,2024-03-22,Mobile Money
+218,Female,49,Single,Engineer,Glasgow,2024-05-04,Mobile Money
+219,Male,47,Single,Engineer,Glasgow,2024-12-01,Mobile Money
+220,Female,35,Single,Analyst,Manchester,2023-07-04,Mobile Money
+221,Female,40,Married,Engineer,London,2024-01-22,Card
+222,Male,50,Married,Engineer,Birmingham,2024-01-20,Cash
+223,Male,38,Married,Analyst,London,2024-09-26,Cash
+224,Male,45,Married,Analyst,Glasgow,2024-10-22,Cash
+225,Male,30,Married,Analyst,London,2023-06-10,Cash
+226,Male,57,Single,Teacher,Manchester,2023-11-24,Cash
+227,Female,32,Married,Engineer,Manchester,2023-05-21,Card
+228,Female,44,Single,Engineer,Manchester,2025-03-03,Card
+229,Female,19,Married,Engineer,Birmingham,2025-01-31,Cash
+230,Female,31,Single,Analyst,London,2023-12-19,Card
+231,Female,18,Single,Engineer,Glasgow,2023-11-02,Card
+232,Male,33,Married,Teacher,Leeds,2024-01-01,Card
+233,Female,43,Single,Engineer,London,2024-06-09,Mobile Money
+234,Female,49,Single,Doctor,London,2023-09-11,Mobile Money
+235,Female,52,Married,Analyst,Leeds,2024-07-30,Card
+236,Male,30,Married,Engineer,Birmingham,2024-10-02,Cash
+237,Female,56,Married,Analyst,Manchester,2024-09-09,Card
+238,Female,55,Single,Engineer,London,2024-03-12,Card
+239,Male,52,Single,Engineer,Leeds,2025-03-12,Card
+240,Male,19,Single,Engineer,London,2024-08-07,Mobile Money
+241,Female,32,Married,Analyst,Manchester,2025-02-16,Cash
+242,Male,44,Married,Teacher,Glasgow,2024-05-16,Card
+243,Male,43,Married,Teacher,Birmingham,2024-09-14,Card
+244,Male,42,Married,Trader,London,2025-02-20,Mobile Money
+245,Female,53,Married,Analyst,Manchester,2024-11-23,Cash
+246,Female,34,Single,Trader,London,2024-11-19,Card
+247,Male,40,Single,Doctor,Leeds,2023-05-21,Mobile Money
+248,Male,33,Single,Analyst,London,2024-10-03,Card
+249,Female,56,Married,Analyst,London,2023-11-09,Mobile Money
+250,Female,25,Married,Teacher,London,2023-07-08,Mobile Money
+251,Male,61,Single,Doctor,Glasgow,2024-01-14,Card
+252,Female,21,Married,Teacher,Glasgow,2025-03-27,Cash
+253,Male,43,Single,Analyst,Leeds,2023-07-13,Card
+254,Female,37,Married,Doctor,Leeds,2024-09-01,Mobile Money
+255,Male,26,Single,Doctor,Leeds,2023-09-07,Mobile Money
+256,Male,18,Married,Engineer,Leeds,2024-01-20,Card
+257,Male,50,Single,Engineer,Leeds,2025-03-12,Cash
+258,Female,54,Single,Doctor,Manchester,2023-06-04,Mobile Money
+259,Female,23,Single,Engineer,Birmingham,2023-06-03,Cash
+260,Female,34,Single,Doctor,Leeds,2024-10-24,Cash
+261,Male,28,Single,Analyst,Leeds,2024-11-11,Mobile Money
+262,Female,24,Married,Doctor,Leeds,2024-12-02,Card
+263,Female,45,Married,Teacher,London,2025-04-06,Cash
+264,Female,55,Single,Doctor,Glasgow,2023-10-29,Card
+265,Female,52,Married,Engineer,Birmingham,2024-10-27,Mobile Money
+266,Male,54,Single,Teacher,Glasgow,2023-11-07,Mobile Money
+267,Male,64,Married,Analyst,Manchester,2024-05-22,Mobile Money
+268,Female,62,Single,Teacher,Glasgow,2024-03-13,Mobile Money
+269,Male,52,Married,Teacher,Leeds,2025-03-07,Card
+270,Female,21,Single,Analyst,Birmingham,2023-06-12,Card
+271,Female,57,Married,Engineer,Leeds,2024-01-08,Mobile Money
+272,Male,32,Married,Trader,London,2023-09-23,Mobile Money
+273,Female,61,Single,Teacher,London,2025-03-17,Mobile Money
+274,Female,65,Single,Doctor,London,2024-11-15,Mobile Money
+275,Male,19,Married,Analyst,Leeds,2024-06-29,Cash
+276,Female,29,Married,Teacher,Manchester,2023-10-02,Cash
+277,Female,31,Single,Engineer,Manchester,2024-10-24,Card
+278,Female,61,Single,Doctor,Birmingham,2023-12-07,Mobile Money
+279,Male,59,Single,Trader,Leeds,2025-01-17,Cash
+280,Female,27,Single,Doctor,Manchester,2023-11-03,Card
+281,Female,56,Married,Trader,Birmingham,2023-11-18,Cash
+282,Female,42,Single,Engineer,Glasgow,2023-11-03,Cash
+283,Male,51,Single,Engineer,Leeds,2023-09-26,Mobile Money
+284,Female,34,Married,Engineer,London,2025-02-14,Mobile Money
+285,Male,38,Single,Engineer,Leeds,2024-09-10,Card
+286,Female,26,Single,Doctor,Birmingham,2023-09-04,Cash
+287,Male,47,Single,Analyst,London,2024-06-28,Cash
+288,Female,52,Married,Engineer,Leeds,2023-07-02,Mobile Money
+289,Female,29,Single,Engineer,Birmingham,2024-09-14,Mobile Money
+290,Male,35,Single,Analyst,London,2024-12-27,Cash
+291,Female,45,Married,Engineer,Birmingham,2024-10-18,Mobile Money
+292,Female,50,Single,Analyst,London,2024-06-30,Mobile Money
+293,Female,36,Married,Engineer,Birmingham,2024-03-08,Cash
+294,Male,29,Single,Trader,Manchester,2025-04-05,Card
+295,Female,60,Single,Doctor,Manchester,2024-10-08,Mobile Money
+296,Male,58,Single,Analyst,Glasgow,2024-10-07,Cash
+297,Male,42,Married,Analyst,Manchester,2025-01-10,Cash
+298,Male,34,Single,Doctor,Leeds,2023-08-14,Cash
+299,Female,43,Married,Analyst,Birmingham,2023-08-28,Card
+300,Female,46,Married,Teacher,Leeds,2025-03-21,Card
+301,Male,25,Single,Analyst,London,2024-02-20,Cash
+302,Male,51,Married,Doctor,Birmingham,2024-09-22,Mobile Money
+303,Female,36,Married,Analyst,Birmingham,2024-12-12,Cash
+304,Male,26,Married,Analyst,Manchester,2024-07-24,Card
+305,Male,46,Single,Engineer,London,2024-03-12,Card
+306,Male,38,Single,Analyst,Manchester,2023-08-15,Mobile Money
+307,Female,55,Single,Teacher,Birmingham,2025-04-03,Mobile Money
+308,Female,30,Married,Engineer,Leeds,2024-03-30,Cash
+309,Female,50,Married,Doctor,London,2024-10-12,Card
+310,Male,20,Single,Teacher,London,2024-07-21,Cash
+311,Male,40,Married,Trader,Manchester,2023-08-16,Mobile Money
+312,Male,41,Single,Teacher,Manchester,2024-12-08,Card
+313,Male,28,Single,Doctor,Birmingham,2023-09-15,Cash
+314,Male,51,Married,Doctor,Glasgow,2023-09-07,Card
+315,Male,54,Single,Teacher,Glasgow,2023-08-06,Card
+316,Male,30,Married,Doctor,Birmingham,2024-02-10,Mobile Money
+317,Male,50,Married,Analyst,Birmingham,2023-07-15,Mobile Money
+318,Male,32,Single,Teacher,Manchester,2024-01-04,Cash
+319,Female,32,Single,Analyst,Manchester,2024-10-13,Mobile Money
+320,Male,22,Single,Analyst,Glasgow,2023-12-23,Card
+321,Female,30,Single,Doctor,Manchester,2024-02-11,Mobile Money
+322,Male,46,Single,Teacher,Glasgow,2023-05-22,Card
+323,Female,38,Single,Teacher,Manchester,2023-08-31,Mobile Money
+324,Male,51,Married,Analyst,Birmingham,2023-05-27,Mobile Money
+325,Female,26,Single,Doctor,Birmingham,2024-07-02,Mobile Money
+326,Female,37,Single,Analyst,Glasgow,2023-06-03,Mobile Money
+327,Male,63,Single,Trader,London,2023-09-04,Mobile Money
+328,Male,27,Single,Trader,Birmingham,2023-08-28,Card
+329,Female,38,Single,Teacher,Glasgow,2023-11-16,Mobile Money
+330,Male,32,Married,Teacher,Glasgow,2024-01-08,Cash
+331,Female,23,Single,Trader,Manchester,2023-07-05,Cash
+332,Female,39,Single,Engineer,London,2023-08-01,Card
+333,Male,52,Single,Analyst,Glasgow,2023-11-18,Card
+334,Female,48,Married,Trader,Leeds,2024-05-30,Mobile Money
+335,Male,30,Single,Analyst,Manchester,2025-02-27,Cash
+336,Female,53,Single,Trader,London,2023-08-25,Card
+337,Female,29,Single,Engineer,London,2024-01-14,Card
+338,Male,26,Single,Engineer,Birmingham,2024-05-28,Mobile Money
+339,Male,19,Married,Analyst,Manchester,2023-06-29,Cash
+340,Female,51,Married,Doctor,Manchester,2023-10-20,Mobile Money
+341,Male,60,Married,Trader,Manchester,2024-07-21,Cash
+342,Female,64,Single,Teacher,Leeds,2025-03-06,Mobile Money
+343,Female,43,Single,Trader,London,2024-04-30,Cash
+344,Female,38,Single,Trader,Glasgow,2023-09-18,Cash
+345,Female,27,Single,Analyst,London,2024-02-07,Cash
+346,Male,45,Single,Teacher,Leeds,2025-03-06,Cash
+347,Male,47,Single,Teacher,London,2025-03-11,Card
+348,Female,62,Single,Trader,Manchester,2024-04-26,Mobile Money
+349,Female,50,Single,Trader,Manchester,2023-06-29,Cash
+350,Male,40,Married,Engineer,Glasgow,2024-02-06,Cash
+351,Male,35,Single,Teacher,Birmingham,2024-04-19,Cash
+352,Male,50,Single,Engineer,Glasgow,2024-11-05,Card
+353,Male,19,Single,Trader,Manchester,2023-09-08,Cash
+354,Male,28,Single,Doctor,Birmingham,2023-12-27,Card
+355,Male,54,Single,Trader,Leeds,2024-05-23,Mobile Money
+356,Female,26,Married,Teacher,Birmingham,2023-10-08,Mobile Money
+357,Male,64,Single,Analyst,Glasgow,2024-10-09,Card
+358,Male,51,Single,Trader,Birmingham,2024-12-29,Cash
+359,Female,22,Single,Doctor,Manchester,2023-07-14,Mobile Money
+360,Male,51,Single,Engineer,London,2025-02-02,Cash
+361,Female,48,Single,Analyst,Glasgow,2025-02-19,Cash
+362,Female,60,Married,Doctor,Leeds,2023-12-19,Cash
+363,Male,53,Single,Engineer,London,2024-02-27,Cash
+364,Female,45,Married,Engineer,London,2024-10-04,Cash
+365,Female,28,Single,Trader,Birmingham,2024-04-30,Cash
+366,Male,48,Married,Engineer,Birmingham,2023-06-20,Cash
+367,Female,44,Single,Analyst,Leeds,2023-06-17,Mobile Money
+368,Male,27,Single,Engineer,Leeds,2025-01-01,Mobile Money
+369,Male,31,Married,Analyst,London,2023-09-30,Mobile Money
+370,Female,41,Single,Trader,Manchester,2024-05-09,Mobile Money
+371,Female,45,Single,Doctor,Glasgow,2023-10-25,Cash
+372,Male,31,Married,Teacher,London,2025-03-06,Cash
+373,Female,55,Married,Doctor,Birmingham,2025-04-13,Mobile Money
+374,Female,31,Married,Trader,Manchester,2024-06-23,Cash
+375,Male,35,Single,Analyst,London,2023-12-19,Cash
+376,Male,50,Married,Teacher,London,2024-06-02,Mobile Money
+377,Male,47,Single,Analyst,Birmingham,2024-09-18,Cash
+378,Male,19,Married,Analyst,Glasgow,2023-06-23,Mobile Money
+379,Male,64,Single,Doctor,Manchester,2023-05-20,Card
+380,Male,42,Single,Trader,Glasgow,2023-12-08,Mobile Money
+381,Male,23,Married,Trader,Birmingham,2023-10-29,Cash
+382,Female,36,Single,Doctor,London,2025-01-18,Mobile Money
+383,Female,49,Married,Teacher,London,2025-04-03,Card
+384,Male,36,Married,Trader,London,2024-06-29,Card
+385,Male,21,Single,Doctor,Glasgow,2024-05-18,Card
+386,Male,33,Single,Analyst,Birmingham,2024-09-14,Card
+387,Male,57,Single,Doctor,Manchester,2025-04-15,Mobile Money
+388,Male,27,Single,Engineer,London,2024-11-25,Mobile Money
+389,Male,49,Married,Analyst,Manchester,2024-07-18,Card
+390,Female,29,Married,Doctor,Birmingham,2024-08-13,Cash
+391,Female,30,Married,Teacher,London,2024-05-05,Mobile Money
+392,Male,50,Married,Teacher,Glasgow,2024-06-14,Card
+393,Male,24,Married,Doctor,Manchester,2024-07-01,Card
+394,Female,60,Single,Doctor,Manchester,2023-08-02,Card
+395,Female,64,Single,Analyst,Manchester,2023-12-12,Cash
+396,Female,56,Single,Engineer,Manchester,2024-09-24,Card
+397,Male,41,Single,Teacher,Glasgow,2023-06-01,Cash
+398,Female,27,Married,Doctor,Manchester,2023-12-23,Card
+399,Female,26,Single,Teacher,London,2024-02-11,Cash
+400,Male,47,Married,Teacher,Leeds,2024-02-19,Card
+401,Male,26,Single,Trader,Manchester,2024-06-06,Cash
+402,Male,20,Married,Engineer,Glasgow,2024-10-10,Mobile Money
+403,Male,42,Married,Teacher,Birmingham,2024-11-13,Cash
+404,Male,23,Single,Doctor,London,2024-09-16,Card
+405,Male,18,Single,Analyst,Glasgow,2024-05-18,Mobile Money
+406,Female,41,Married,Trader,Manchester,2024-12-16,Card
+407,Male,19,Single,Engineer,London,2024-11-02,Card
+408,Female,33,Married,Engineer,Manchester,2024-07-26,Card
+409,Male,21,Married,Doctor,Glasgow,2023-08-07,Card
+410,Male,34,Married,Doctor,London,2023-08-14,Card
+411,Male,50,Single,Teacher,Manchester,2024-09-02,Cash
+412,Female,63,Married,Analyst,London,2025-03-30,Cash
+413,Female,37,Married,Engineer,Leeds,2024-06-07,Cash
+414,Male,62,Single,Trader,Leeds,2024-10-15,Mobile Money
+415,Female,60,Married,Teacher,Manchester,2024-10-25,Card
+416,Male,23,Single,Teacher,Leeds,2023-12-02,Card
+417,Male,63,Single,Engineer,Glasgow,2023-11-28,Cash
+418,Female,44,Married,Engineer,Manchester,2024-01-10,Mobile Money
+419,Female,38,Single,Trader,London,2025-04-14,Card
+420,Female,19,Married,Trader,Manchester,2024-06-19,Card
+421,Female,47,Single,Doctor,Leeds,2024-12-12,Card
+422,Male,35,Single,Teacher,Manchester,2024-10-05,Card
+423,Male,51,Married,Doctor,Manchester,2023-11-24,Mobile Money
+424,Male,27,Married,Analyst,Leeds,2023-07-14,Cash
+425,Female,55,Single,Trader,Glasgow,2024-11-04,Card
+426,Female,34,Single,Doctor,Manchester,2024-10-17,Card
+427,Male,56,Married,Doctor,Glasgow,2024-09-06,Card
+428,Female,55,Married,Doctor,Leeds,2024-10-02,Mobile Money
+429,Male,63,Single,Analyst,Glasgow,2023-09-28,Card
+430,Female,27,Married,Trader,London,2023-12-29,Cash
+431,Male,24,Married,Trader,Birmingham,2024-02-26,Mobile Money
+432,Male,41,Married,Doctor,London,2025-03-29,Mobile Money
+433,Male,43,Married,Analyst,Manchester,2024-02-02,Card
+434,Female,54,Married,Engineer,Leeds,2024-01-27,Mobile Money
+435,Female,50,Single,Trader,Birmingham,2025-03-21,Mobile Money
+436,Male,63,Married,Trader,Manchester,2023-07-15,Mobile Money
+437,Male,20,Married,Doctor,London,2023-12-14,Card
+438,Male,59,Single,Engineer,Manchester,2024-12-02,Card
+439,Female,46,Married,Doctor,Manchester,2024-07-25,Card
+440,Male,40,Married,Trader,Leeds,2025-03-23,Mobile Money
+441,Male,37,Single,Teacher,Leeds,2023-12-04,Card
+442,Female,23,Married,Engineer,Glasgow,2024-03-26,Card
+443,Male,44,Married,Teacher,Glasgow,2023-07-26,Card
+444,Female,49,Married,Engineer,Birmingham,2023-05-22,Mobile Money
+445,Female,50,Single,Trader,Glasgow,2024-10-10,Cash
+446,Female,34,Single,Teacher,London,2025-02-03,Card
+447,Male,55,Single,Analyst,Manchester,2025-02-23,Mobile Money
+448,Female,63,Married,Analyst,Birmingham,2023-11-29,Mobile Money
+449,Female,53,Single,Engineer,Birmingham,2024-07-25,Cash
+450,Female,38,Single,Doctor,Glasgow,2025-03-07,Cash
+451,Male,37,Married,Engineer,Birmingham,2024-12-15,Card
+452,Male,34,Single,Doctor,Glasgow,2024-04-19,Mobile Money
+453,Female,30,Single,Doctor,London,2024-10-02,Mobile Money
+454,Female,21,Married,Engineer,Birmingham,2024-08-01,Cash
+455,Female,39,Single,Trader,Glasgow,2025-02-09,Mobile Money
+456,Male,64,Married,Trader,London,2025-02-19,Card
+457,Male,24,Married,Engineer,Glasgow,2023-06-29,Card
+458,Female,61,Single,Teacher,Glasgow,2024-10-25,Mobile Money
+459,Male,30,Married,Engineer,Manchester,2024-06-12,Cash
+460,Male,21,Married,Engineer,Birmingham,2023-10-14,Card
+461,Female,26,Single,Trader,London,2024-11-03,Cash
+462,Male,53,Married,Trader,Glasgow,2024-05-05,Cash
+463,Female,36,Single,Analyst,London,2023-07-15,Mobile Money
+464,Female,54,Married,Engineer,Birmingham,2024-12-06,Cash
+465,Male,24,Married,Trader,London,2024-05-13,Cash
+466,Female,46,Single,Engineer,London,2025-03-05,Card
+467,Female,30,Married,Teacher,Leeds,2024-01-21,Cash
+468,Male,39,Married,Trader,Glasgow,2024-11-12,Cash
+469,Female,52,Single,Teacher,Manchester,2024-05-07,Card
+470,Male,32,Single,Engineer,Manchester,2024-03-11,Cash
+471,Male,40,Single,Trader,Manchester,2023-08-05,Cash
+472,Male,64,Married,Doctor,Manchester,2024-03-27,Card
+473,Male,56,Single,Doctor,Glasgow,2023-06-03,Card
+474,Male,38,Married,Trader,London,2024-10-11,Mobile Money
+475,Male,30,Married,Trader,Glasgow,2023-10-01,Card
+476,Male,42,Married,Doctor,Birmingham,2024-12-02,Mobile Money
+477,Male,40,Married,Doctor,Birmingham,2024-04-08,Card
+478,Male,45,Single,Teacher,Birmingham,2023-09-01,Card
+479,Female,54,Single,Engineer,Birmingham,2023-07-06,Cash
+480,Female,37,Single,Teacher,Glasgow,2023-09-15,Cash
+481,Male,41,Married,Doctor,Leeds,2023-11-13,Cash
+482,Female,55,Married,Engineer,London,2024-02-29,Cash
+483,Female,64,Married,Engineer,Birmingham,2023-08-27,Mobile Money
+484,Male,29,Single,Doctor,London,2023-09-26,Cash
+485,Female,29,Single,Engineer,London,2024-02-21,Cash
+486,Female,21,Married,Trader,Glasgow,2024-02-20,Cash
+487,Female,19,Single,Analyst,Glasgow,2024-12-09,Card
+488,Female,21,Married,Engineer,Birmingham,2025-02-01,Mobile Money
+489,Male,26,Married,Teacher,Glasgow,2025-03-05,Card
+490,Female,46,Married,Teacher,London,2023-11-16,Card
+491,Male,64,Single,Analyst,Glasgow,2023-12-18,Cash
+492,Female,53,Single,Analyst,London,2025-03-30,Mobile Money
+493,Female,27,Single,Doctor,Leeds,2023-06-17,Card
+494,Female,60,Married,Engineer,Manchester,2024-12-15,Cash
+495,Male,36,Single,Analyst,Glasgow,2024-05-31,Card
+496,Male,52,Single,Doctor,Leeds,2024-03-05,Cash
+497,Male,62,Single,Engineer,Manchester,2023-08-18,Card
+498,Male,63,Married,Analyst,Birmingham,2025-02-06,Card
+499,Female,26,Single,Trader,Birmingham,2024-07-31,Cash
+500,Male,63,Married,Engineer,London,2025-03-04,Cash
+501,Female,32,Single,Trader,Glasgow,2025-03-27,Mobile Money
+502,Male,53,Married,Trader,Glasgow,2023-07-25,Cash
+503,Male,62,Single,Teacher,London,2023-07-09,Mobile Money
+504,Male,56,Single,Engineer,London,2024-12-10,Mobile Money
+505,Male,31,Single,Analyst,Manchester,2024-07-26,Mobile Money
+506,Female,33,Married,Teacher,London,2025-04-12,Card
+507,Male,21,Married,Engineer,Leeds,2023-11-28,Mobile Money
+508,Male,18,Single,Analyst,Birmingham,2023-08-27,Card
+509,Male,23,Married,Teacher,Manchester,2024-08-15,Cash
+510,Male,33,Single,Doctor,Birmingham,2024-03-21,Card
+511,Male,51,Single,Engineer,Glasgow,2023-12-31,Cash
+512,Male,63,Married,Doctor,Manchester,2024-08-09,Card
+513,Male,45,Married,Doctor,Manchester,2024-05-13,Mobile Money
+514,Male,50,Married,Analyst,Glasgow,2024-04-29,Card
+515,Male,32,Married,Doctor,London,2024-02-09,Card
+516,Female,64,Single,Doctor,London,2024-08-07,Cash
+517,Male,53,Single,Analyst,Glasgow,2024-09-01,Card
+518,Male,35,Married,Analyst,Glasgow,2024-03-13,Cash
+519,Female,29,Married,Trader,Leeds,2024-05-06,Card
+520,Female,58,Married,Engineer,Birmingham,2024-09-29,Cash
+521,Female,31,Single,Trader,Manchester,2024-04-29,Mobile Money
+522,Female,60,Married,Doctor,Manchester,2023-07-30,Card
+523,Female,60,Single,Teacher,London,2024-07-15,Card
+524,Female,61,Married,Doctor,Glasgow,2024-09-12,Card
+525,Female,44,Married,Trader,Leeds,2023-11-11,Card
+526,Female,21,Married,Engineer,Glasgow,2023-05-20,Cash
+527,Female,33,Single,Engineer,Birmingham,2024-01-23,Card
+528,Male,36,Married,Teacher,Glasgow,2025-03-19,Mobile Money
+529,Female,44,Single,Trader,Glasgow,2023-05-22,Mobile Money
+530,Male,50,Single,Doctor,London,2024-10-26,Mobile Money
+531,Male,34,Married,Analyst,London,2024-09-29,Mobile Money
+532,Male,61,Single,Doctor,London,2024-11-18,Mobile Money
+533,Male,27,Single,Teacher,Glasgow,2024-02-15,Cash
+534,Male,27,Single,Engineer,Leeds,2023-09-22,Mobile Money
+535,Male,29,Married,Teacher,London,2025-01-03,Card
+536,Female,65,Married,Analyst,Birmingham,2025-03-21,Card
+537,Male,64,Married,Analyst,Glasgow,2025-01-14,Mobile Money
+538,Male,38,Married,Teacher,Birmingham,2024-08-08,Cash
+539,Male,46,Married,Analyst,Glasgow,2025-03-09,Card
+540,Male,49,Married,Doctor,London,2023-10-06,Cash
+541,Female,57,Single,Engineer,Manchester,2024-09-22,Card
+542,Male,46,Married,Engineer,Manchester,2024-02-12,Cash
+543,Male,50,Married,Analyst,Glasgow,2023-06-11,Card
+544,Male,41,Single,Engineer,London,2024-07-04,Card
+545,Female,31,Married,Analyst,Leeds,2023-08-25,Cash
+546,Male,59,Married,Analyst,Glasgow,2024-07-16,Mobile Money
+547,Female,38,Married,Teacher,Leeds,2024-06-27,Card
+548,Female,19,Single,Teacher,Manchester,2023-10-28,Mobile Money
+549,Male,57,Married,Analyst,Birmingham,2024-02-07,Cash
+550,Female,25,Married,Teacher,Glasgow,2024-07-16,Cash
+551,Female,51,Single,Doctor,London,2024-02-26,Card
+552,Female,40,Single,Trader,Leeds,2025-02-07,Mobile Money
+553,Male,62,Single,Analyst,Leeds,2025-03-11,Cash
+554,Female,21,Single,Analyst,London,2023-07-22,Cash
+555,Male,18,Single,Doctor,London,2023-09-15,Card
+556,Female,60,Married,Analyst,Leeds,2024-05-17,Cash
+557,Female,20,Single,Teacher,Glasgow,2024-05-01,Card
+558,Female,24,Single,Analyst,Leeds,2025-03-26,Mobile Money
+559,Female,26,Married,Doctor,Glasgow,2025-04-10,Mobile Money
+560,Male,18,Single,Engineer,London,2024-01-11,Mobile Money
+561,Female,29,Single,Teacher,Glasgow,2024-12-14,Card
+562,Male,61,Single,Trader,Birmingham,2023-11-30,Card
+563,Male,23,Single,Analyst,Birmingham,2023-09-18,Card
+564,Female,30,Married,Engineer,Leeds,2023-07-02,Mobile Money
+565,Female,27,Single,Teacher,Glasgow,2023-06-10,Cash
+566,Male,31,Single,Doctor,Manchester,2024-12-13,Mobile Money
+567,Male,30,Single,Trader,Manchester,2024-02-26,Card
+568,Female,25,Married,Doctor,Glasgow,2024-09-18,Mobile Money
+569,Male,27,Married,Trader,Manchester,2024-06-12,Mobile Money
+570,Male,31,Married,Teacher,London,2024-07-31,Mobile Money
+571,Female,49,Married,Teacher,Glasgow,2024-08-05,Card
+572,Female,34,Married,Trader,Birmingham,2023-05-18,Card
+573,Male,24,Married,Trader,Leeds,2023-09-15,Cash
+574,Male,39,Single,Doctor,Manchester,2023-11-15,Card
+575,Female,25,Married,Engineer,Birmingham,2024-04-13,Cash
+576,Female,64,Married,Analyst,Leeds,2024-02-02,Mobile Money
+577,Male,19,Single,Engineer,Manchester,2025-03-18,Cash
+578,Female,29,Single,Analyst,Manchester,2023-05-31,Cash
+579,Female,29,Single,Teacher,Leeds,2023-12-13,Mobile Money
+580,Female,21,Married,Analyst,London,2024-09-18,Mobile Money
+581,Female,27,Single,Trader,Manchester,2025-01-03,Cash
+582,Female,20,Married,Teacher,Leeds,2023-09-03,Card
+583,Male,45,Single,Doctor,Birmingham,2023-07-10,Mobile Money
+584,Female,31,Single,Trader,London,2024-07-08,Mobile Money
+585,Male,56,Single,Engineer,Leeds,2023-09-17,Card
+586,Female,37,Married,Analyst,Leeds,2024-11-11,Mobile Money
+587,Male,25,Single,Engineer,Birmingham,2024-03-21,Card
+588,Female,42,Married,Doctor,Leeds,2024-01-20,Mobile Money
+589,Female,51,Single,Engineer,London,2023-12-04,Card
+590,Female,65,Married,Teacher,Birmingham,2024-04-25,Mobile Money
+591,Male,36,Married,Trader,Manchester,2023-10-02,Mobile Money
+592,Male,47,Married,Trader,London,2023-05-18,Cash
+593,Male,36,Single,Engineer,Leeds,2024-09-08,Cash
+594,Female,20,Married,Engineer,Glasgow,2023-08-23,Mobile Money
+595,Female,54,Married,Engineer,Birmingham,2023-08-22,Card
+596,Female,62,Single,Trader,Birmingham,2023-10-17,Cash
+597,Female,54,Married,Engineer,Manchester,2024-09-29,Card
+598,Male,55,Single,Engineer,Leeds,2024-04-07,Card
+599,Male,58,Single,Analyst,Birmingham,2024-10-07,Mobile Money
+600,Female,23,Single,Doctor,London,2023-10-10,Card
+601,Female,20,Single,Analyst,Manchester,2023-07-26,Mobile Money
+602,Female,32,Married,Doctor,Birmingham,2024-02-15,Card
+603,Male,64,Married,Trader,Leeds,2023-08-09,Mobile Money
+604,Female,57,Single,Analyst,Glasgow,2025-04-06,Mobile Money
+605,Male,62,Married,Doctor,Birmingham,2024-05-21,Card
+606,Female,51,Single,Analyst,Leeds,2024-10-04,Card
+607,Female,39,Married,Engineer,Birmingham,2024-06-15,Card
+608,Female,61,Single,Engineer,London,2024-07-14,Cash
+609,Female,45,Single,Teacher,London,2023-12-09,Card
+610,Female,39,Single,Analyst,Glasgow,2025-02-06,Card
+611,Female,22,Married,Trader,Birmingham,2024-08-06,Card
+612,Female,25,Single,Engineer,Leeds,2024-07-13,Mobile Money
+613,Male,45,Single,Engineer,London,2024-03-01,Card
+614,Female,47,Married,Teacher,Leeds,2023-12-11,Card
+615,Female,45,Single,Doctor,Manchester,2025-03-08,Cash
+616,Female,24,Married,Teacher,Leeds,2024-08-09,Mobile Money
+617,Female,57,Married,Trader,Birmingham,2024-01-05,Cash
+618,Female,25,Single,Analyst,Glasgow,2024-10-03,Cash
+619,Female,20,Single,Trader,Leeds,2023-07-18,Mobile Money
+620,Female,55,Married,Teacher,Leeds,2024-05-11,Mobile Money
+621,Female,59,Single,Teacher,Leeds,2023-09-16,Card
+622,Female,39,Single,Doctor,Birmingham,2025-02-20,Cash
+623,Female,20,Single,Doctor,Glasgow,2025-01-19,Card
+624,Male,62,Married,Teacher,Glasgow,2025-04-10,Cash
+625,Male,20,Married,Teacher,London,2024-08-10,Mobile Money
+626,Female,48,Married,Teacher,Glasgow,2023-11-24,Card
+627,Female,24,Married,Engineer,London,2024-03-01,Cash
+628,Female,59,Single,Analyst,Manchester,2024-09-21,Cash
+629,Female,52,Single,Doctor,London,2024-05-17,Card
+630,Male,21,Married,Analyst,Leeds,2025-02-18,Card
+631,Male,28,Single,Analyst,London,2023-12-10,Mobile Money
+632,Female,54,Married,Trader,London,2024-05-22,Cash
+633,Male,46,Single,Engineer,London,2025-02-20,Cash
+634,Female,24,Single,Analyst,London,2024-10-06,Cash
+635,Female,54,Married,Doctor,Leeds,2024-04-24,Cash
+636,Female,36,Married,Trader,Glasgow,2023-07-29,Cash
+637,Male,59,Married,Analyst,London,2024-03-03,Card
+638,Male,49,Married,Analyst,Manchester,2023-10-09,Cash
+639,Female,22,Married,Analyst,Birmingham,2023-09-27,Cash
+640,Male,52,Married,Engineer,Leeds,2025-01-15,Mobile Money
+641,Female,54,Married,Teacher,Glasgow,2024-08-18,Card
+642,Female,63,Single,Analyst,Birmingham,2023-05-20,Card
+643,Male,58,Married,Analyst,Birmingham,2024-07-13,Card
+644,Female,36,Married,Analyst,Glasgow,2025-02-13,Mobile Money
+645,Male,25,Single,Engineer,Leeds,2023-08-12,Cash
+646,Female,43,Single,Teacher,Birmingham,2024-11-16,Card
+647,Female,34,Married,Teacher,London,2023-08-01,Cash
+648,Male,31,Single,Engineer,London,2023-12-18,Mobile Money
+649,Male,53,Married,Teacher,Glasgow,2023-11-22,Cash
+650,Male,59,Single,Analyst,Leeds,2025-01-17,Cash
+651,Male,41,Single,Analyst,London,2023-10-28,Card
+652,Male,55,Single,Teacher,Leeds,2025-04-04,Card
+653,Female,64,Married,Teacher,Manchester,2024-12-24,Cash
+654,Male,61,Single,Engineer,Glasgow,2024-06-29,Mobile Money
+655,Female,48,Single,Teacher,Manchester,2023-12-24,Cash
+656,Female,30,Married,Trader,London,2024-11-21,Mobile Money
+657,Male,26,Single,Teacher,Manchester,2025-01-18,Card
+658,Male,35,Single,Doctor,London,2024-07-15,Card
+659,Female,54,Married,Trader,London,2023-10-12,Mobile Money
+660,Female,22,Single,Trader,London,2023-10-14,Cash
+661,Male,42,Single,Analyst,Glasgow,2024-09-13,Mobile Money
+662,Female,31,Married,Analyst,Manchester,2025-03-30,Card
+663,Female,19,Married,Trader,Manchester,2023-07-30,Cash
+664,Female,23,Married,Engineer,Manchester,2024-10-24,Cash
+665,Male,30,Married,Teacher,Manchester,2023-09-12,Card
+666,Male,64,Married,Trader,Leeds,2024-10-09,Cash
+667,Female,59,Single,Engineer,London,2024-02-25,Mobile Money
+668,Female,61,Single,Engineer,London,2023-10-04,Card
+669,Female,63,Single,Teacher,London,2025-01-10,Mobile Money
+670,Male,41,Married,Engineer,Glasgow,2024-06-05,Cash
+671,Male,54,Single,Analyst,Manchester,2024-02-02,Mobile Money
+672,Female,23,Married,Analyst,Leeds,2023-11-03,Mobile Money
+673,Male,52,Single,Doctor,Manchester,2023-11-24,Cash
+674,Male,51,Single,Engineer,Leeds,2024-10-03,Card
+675,Male,44,Married,Doctor,Leeds,2024-08-28,Card
+676,Female,41,Married,Teacher,Leeds,2024-05-30,Cash
+677,Female,32,Married,Engineer,Glasgow,2024-12-27,Mobile Money
+678,Female,30,Single,Teacher,London,2025-02-26,Cash
+679,Female,29,Married,Analyst,London,2024-12-02,Card
+680,Female,43,Married,Doctor,London,2024-01-27,Mobile Money
+681,Female,30,Single,Doctor,Glasgow,2024-06-15,Mobile Money
+682,Female,63,Married,Analyst,Leeds,2023-09-04,Mobile Money
+683,Female,50,Married,Teacher,Glasgow,2023-12-10,Cash
+684,Female,19,Single,Teacher,Birmingham,2024-10-09,Card
+685,Female,65,Single,Trader,Glasgow,2023-11-08,Cash
+686,Female,35,Single,Doctor,London,2024-04-02,Mobile Money
+687,Female,53,Single,Trader,Leeds,2024-11-17,Card
+688,Female,37,Single,Trader,Leeds,2024-04-09,Mobile Money
+689,Female,57,Single,Engineer,Glasgow,2024-08-08,Cash
+690,Female,50,Married,Doctor,Manchester,2024-05-15,Cash
+691,Female,42,Single,Teacher,Glasgow,2023-11-26,Card
+692,Male,45,Married,Engineer,Glasgow,2023-12-26,Cash
+693,Male,21,Married,Doctor,London,2025-03-16,Mobile Money
+694,Female,23,Single,Engineer,London,2023-07-04,Cash
+695,Male,29,Single,Engineer,Glasgow,2024-11-06,Mobile Money
+696,Female,65,Married,Doctor,Leeds,2024-02-06,Card
+697,Male,65,Single,Teacher,Birmingham,2024-01-19,Card
+698,Male,47,Married,Teacher,Birmingham,2024-11-25,Mobile Money
+699,Female,25,Married,Doctor,Birmingham,2025-01-13,Mobile Money
+700,Female,46,Single,Teacher,London,2024-07-27,Mobile Money
+701,Female,22,Married,Doctor,Leeds,2024-01-12,Mobile Money
+702,Male,42,Single,Doctor,Birmingham,2025-04-06,Card
+703,Male,41,Married,Doctor,Birmingham,2025-01-31,Cash
+704,Male,62,Single,Engineer,Leeds,2024-07-30,Card
+705,Male,38,Married,Trader,Birmingham,2024-09-27,Card
+706,Male,21,Single,Analyst,Leeds,2024-10-05,Mobile Money
+707,Male,43,Married,Engineer,Birmingham,2025-02-07,Cash
+708,Female,25,Single,Teacher,Birmingham,2024-09-11,Cash
+709,Male,52,Married,Engineer,Leeds,2025-01-20,Cash
+710,Male,22,Married,Analyst,London,2024-07-30,Card
+711,Female,64,Married,Engineer,Glasgow,2024-06-04,Cash
+712,Female,24,Single,Engineer,Leeds,2023-10-30,Mobile Money
+713,Male,57,Married,Analyst,Manchester,2024-07-25,Mobile Money
+714,Male,40,Married,Engineer,London,2023-12-02,Card
+715,Female,43,Married,Doctor,Manchester,2024-09-02,Card
+716,Male,38,Married,Teacher,Glasgow,2024-10-02,Mobile Money
+717,Female,29,Married,Analyst,Leeds,2024-08-14,Card
+718,Male,33,Married,Teacher,Manchester,2024-09-26,Mobile Money
+719,Male,56,Single,Analyst,Manchester,2024-10-26,Card
+720,Female,25,Married,Trader,Birmingham,2024-02-19,Card
+721,Male,20,Married,Teacher,Leeds,2024-11-06,Mobile Money
+722,Female,21,Single,Analyst,Manchester,2024-11-13,Card
+723,Male,42,Single,Teacher,Birmingham,2025-02-20,Mobile Money
+724,Female,57,Single,Teacher,Glasgow,2024-08-06,Cash
+725,Female,59,Married,Analyst,London,2025-02-25,Cash
+726,Female,33,Single,Analyst,London,2024-03-26,Mobile Money
+727,Female,58,Married,Teacher,London,2023-05-18,Card
+728,Male,37,Married,Engineer,Manchester,2024-01-06,Cash
+729,Male,54,Single,Teacher,Glasgow,2024-02-11,Cash
+730,Male,59,Married,Engineer,Glasgow,2023-08-31,Card
+731,Female,46,Married,Teacher,Birmingham,2024-06-18,Cash
+732,Male,52,Married,Engineer,London,2024-01-20,Card
+733,Female,30,Married,Engineer,Birmingham,2024-01-11,Card
+734,Male,59,Single,Teacher,London,2024-09-16,Cash
+735,Male,59,Married,Doctor,Manchester,2024-10-20,Card
+736,Male,52,Married,Teacher,Glasgow,2024-02-22,Cash
+737,Female,53,Married,Analyst,Birmingham,2025-03-24,Card
+738,Male,60,Married,Doctor,Glasgow,2025-02-08,Card
+739,Male,55,Single,Teacher,Manchester,2024-10-04,Mobile Money
+740,Male,49,Single,Trader,Glasgow,2023-09-28,Mobile Money
+741,Male,49,Single,Trader,London,2024-08-08,Mobile Money
+742,Male,51,Single,Doctor,Glasgow,2025-02-24,Card
+743,Female,23,Single,Analyst,Manchester,2023-06-13,Cash
+744,Female,44,Married,Trader,Glasgow,2024-08-03,Mobile Money
+745,Male,45,Married,Doctor,Glasgow,2025-01-26,Mobile Money
+746,Female,35,Married,Analyst,Birmingham,2024-05-04,Cash
+747,Female,63,Married,Doctor,Manchester,2025-02-25,Mobile Money
+748,Male,44,Single,Engineer,Glasgow,2024-05-31,Card
+749,Female,62,Single,Engineer,London,2024-09-30,Cash
+750,Male,28,Married,Trader,Manchester,2024-08-15,Mobile Money
+751,Female,18,Single,Doctor,Manchester,2023-10-05,Mobile Money
+752,Male,24,Single,Teacher,Glasgow,2024-12-11,Card
+753,Female,32,Married,Doctor,London,2023-06-28,Card
+754,Female,52,Single,Trader,Leeds,2024-12-22,Cash
+755,Female,51,Single,Trader,Manchester,2023-12-22,Cash
+756,Female,65,Single,Trader,London,2023-10-03,Card
+757,Female,52,Married,Engineer,Leeds,2023-08-03,Cash
+758,Male,65,Single,Trader,London,2024-06-12,Card
+759,Male,28,Married,Teacher,Birmingham,2024-07-05,Card
+760,Female,60,Married,Doctor,Manchester,2024-06-20,Card
+761,Female,38,Married,Analyst,Birmingham,2023-08-20,Card
+762,Female,31,Single,Engineer,London,2025-01-29,Card
+763,Male,32,Single,Doctor,Birmingham,2024-08-14,Cash
+764,Female,34,Single,Engineer,London,2024-02-01,Mobile Money
+765,Male,52,Single,Teacher,Leeds,2025-03-07,Cash
+766,Male,38,Single,Analyst,Birmingham,2023-10-05,Mobile Money
+767,Female,42,Single,Analyst,Manchester,2023-09-12,Mobile Money
+768,Male,65,Married,Analyst,Leeds,2024-05-06,Mobile Money
+769,Female,59,Married,Trader,London,2023-10-10,Mobile Money
+770,Male,40,Married,Teacher,Glasgow,2023-07-30,Card
+771,Male,47,Single,Trader,Manchester,2024-06-22,Card
+772,Female,46,Single,Doctor,Glasgow,2024-11-22,Cash
+773,Male,59,Single,Trader,Manchester,2024-01-23,Cash
+774,Female,50,Married,Trader,Birmingham,2024-11-14,Card
+775,Female,51,Married,Doctor,London,2024-12-30,Card
+776,Male,41,Married,Engineer,Leeds,2025-04-06,Mobile Money
+777,Male,51,Single,Trader,Birmingham,2024-08-26,Cash
+778,Male,52,Married,Trader,Birmingham,2024-04-08,Cash
+779,Female,38,Married,Trader,London,2024-06-05,Cash
+780,Male,50,Married,Engineer,Manchester,2023-12-25,Card
+781,Female,43,Married,Teacher,Birmingham,2024-07-31,Cash
+782,Female,60,Married,Doctor,London,2024-10-27,Mobile Money
+783,Female,29,Married,Teacher,Leeds,2023-10-08,Cash
+784,Female,59,Single,Analyst,Manchester,2024-06-05,Mobile Money
+785,Male,53,Married,Trader,Manchester,2024-03-08,Card
+786,Male,62,Married,Doctor,London,2024-07-18,Card
+787,Female,35,Single,Engineer,London,2023-12-08,Card
+788,Female,18,Married,Analyst,London,2025-02-12,Card
+789,Female,36,Single,Teacher,Birmingham,2023-06-14,Cash
+790,Male,52,Married,Teacher,Manchester,2024-02-11,Cash
+791,Female,48,Single,Doctor,London,2024-07-18,Cash
+792,Female,32,Married,Analyst,Leeds,2025-04-02,Card
+793,Male,61,Single,Engineer,London,2023-09-19,Cash
+794,Female,27,Married,Teacher,London,2023-10-14,Mobile Money
+795,Female,32,Married,Teacher,Leeds,2024-12-04,Mobile Money
+796,Male,32,Married,Doctor,Glasgow,2023-07-18,Card
+797,Female,44,Single,Teacher,Birmingham,2023-10-11,Mobile Money
+798,Female,63,Married,Engineer,Leeds,2023-06-10,Cash
+799,Male,59,Married,Doctor,Glasgow,2023-11-29,Card
+800,Male,65,Single,Trader,Leeds,2024-12-13,Cash
+801,Female,56,Married,Teacher,Manchester,2025-03-29,Mobile Money
+802,Male,54,Single,Engineer,Glasgow,2024-09-21,Mobile Money
+803,Female,40,Single,Teacher,Manchester,2024-02-20,Cash
+804,Male,41,Single,Doctor,Manchester,2023-12-03,Cash
+805,Female,25,Married,Analyst,London,2024-03-16,Card
+806,Female,27,Married,Doctor,Glasgow,2025-02-05,Card
+807,Male,58,Single,Engineer,London,2024-04-01,Mobile Money
+808,Male,51,Married,Analyst,Birmingham,2024-07-24,Mobile Money
+809,Male,59,Married,Trader,Glasgow,2023-10-23,Cash
+810,Male,36,Single,Teacher,Birmingham,2024-08-12,Mobile Money
+811,Male,50,Married,Engineer,Manchester,2023-05-30,Cash
+812,Female,25,Married,Analyst,Glasgow,2023-11-08,Cash
+813,Male,63,Married,Engineer,London,2023-10-13,Mobile Money
+814,Female,36,Single,Teacher,Birmingham,2025-01-25,Card
+815,Female,58,Single,Doctor,Manchester,2023-09-08,Mobile Money
+816,Male,41,Married,Doctor,Manchester,2024-02-26,Mobile Money
+817,Male,43,Married,Engineer,Glasgow,2023-11-06,Card
+818,Female,32,Single,Teacher,Leeds,2023-06-15,Mobile Money
+819,Female,33,Married,Teacher,Leeds,2025-03-03,Cash
+820,Male,58,Married,Engineer,Glasgow,2024-04-14,Mobile Money
+821,Female,52,Married,Trader,Leeds,2025-01-31,Mobile Money
+822,Female,61,Married,Engineer,Manchester,2023-07-25,Cash
+823,Male,55,Single,Doctor,Glasgow,2024-03-14,Card
+824,Female,18,Married,Trader,Glasgow,2024-10-26,Card
+825,Male,64,Married,Teacher,Glasgow,2024-07-31,Cash
+826,Female,18,Married,Teacher,Glasgow,2024-03-01,Mobile Money
+827,Female,62,Married,Trader,Leeds,2024-11-11,Cash
+828,Female,44,Married,Teacher,Birmingham,2024-03-27,Cash
+829,Male,50,Single,Doctor,Glasgow,2024-04-09,Mobile Money
+830,Female,29,Single,Doctor,Leeds,2024-04-08,Cash
+831,Male,22,Single,Doctor,Leeds,2025-03-28,Card
+832,Female,61,Single,Analyst,Manchester,2024-02-22,Card
+833,Female,65,Married,Analyst,Birmingham,2024-12-02,Card
+834,Female,35,Single,Trader,Glasgow,2024-09-09,Mobile Money
+835,Male,50,Married,Analyst,London,2023-12-08,Cash
+836,Male,63,Single,Doctor,Manchester,2024-09-19,Card
+837,Female,33,Married,Doctor,Manchester,2025-02-13,Card
+838,Male,47,Single,Teacher,Glasgow,2023-12-16,Card
+839,Male,32,Single,Teacher,Birmingham,2025-02-10,Mobile Money
+840,Male,35,Married,Doctor,Leeds,2024-11-26,Cash
+841,Male,55,Single,Trader,Leeds,2024-10-23,Mobile Money
+842,Male,20,Married,Trader,Birmingham,2024-01-09,Cash
+843,Female,20,Married,Trader,Glasgow,2025-04-13,Mobile Money
+844,Female,23,Single,Analyst,Glasgow,2023-09-28,Card
+845,Male,34,Single,Engineer,London,2024-08-26,Cash
+846,Male,18,Single,Engineer,London,2025-01-11,Card
+847,Female,36,Single,Engineer,Manchester,2024-03-28,Card
+848,Female,52,Single,Doctor,London,2025-01-22,Cash
+849,Male,25,Married,Analyst,London,2024-05-06,Card
+850,Female,57,Married,Teacher,Birmingham,2023-08-10,Card
+851,Male,41,Single,Teacher,Manchester,2024-11-12,Card
+852,Male,39,Married,Trader,Manchester,2023-07-14,Mobile Money
+853,Female,46,Single,Teacher,Birmingham,2023-11-07,Card
+854,Female,40,Single,Trader,Manchester,2025-01-20,Mobile Money
+855,Male,51,Married,Teacher,Leeds,2024-02-21,Cash
+856,Female,48,Single,Teacher,Manchester,2023-09-13,Cash
+857,Female,31,Single,Trader,London,2024-01-19,Card
+858,Male,62,Married,Doctor,London,2024-03-19,Mobile Money
+859,Male,35,Married,Trader,Birmingham,2024-03-29,Cash
+860,Male,37,Single,Teacher,Birmingham,2024-07-07,Cash
+861,Male,23,Single,Engineer,Glasgow,2024-03-06,Mobile Money
+862,Male,45,Single,Doctor,London,2023-08-17,Mobile Money
+863,Female,59,Married,Engineer,London,2024-11-09,Cash
+864,Male,26,Married,Trader,Birmingham,2025-02-15,Mobile Money
+865,Male,41,Single,Trader,Leeds,2024-03-20,Card
+866,Female,59,Married,Engineer,Manchester,2024-03-20,Mobile Money
+867,Female,30,Single,Trader,Glasgow,2024-06-23,Mobile Money
+868,Female,42,Single,Trader,London,2024-06-09,Cash
+869,Male,47,Single,Trader,Manchester,2024-11-11,Card
+870,Female,45,Single,Teacher,Manchester,2024-05-09,Mobile Money
+871,Female,57,Married,Trader,London,2024-03-20,Cash
+872,Male,22,Married,Trader,London,2024-04-29,Mobile Money
+873,Male,39,Single,Trader,Glasgow,2024-01-07,Card
+874,Female,49,Single,Analyst,Birmingham,2025-03-12,Cash
+875,Male,25,Single,Analyst,London,2025-04-08,Cash
+876,Male,60,Single,Trader,Manchester,2023-05-31,Mobile Money
+877,Female,35,Married,Teacher,London,2024-10-09,Cash
+878,Male,39,Single,Trader,Manchester,2024-07-31,Mobile Money
+879,Female,59,Married,Trader,Leeds,2023-09-05,Mobile Money
+880,Female,33,Married,Doctor,Birmingham,2024-08-14,Mobile Money
+881,Female,40,Single,Doctor,Birmingham,2025-03-05,Mobile Money
+882,Female,40,Single,Teacher,Glasgow,2024-05-17,Card
+883,Female,55,Single,Teacher,Leeds,2025-02-17,Card
+884,Female,50,Single,Engineer,London,2024-10-04,Mobile Money
+885,Male,22,Single,Engineer,Glasgow,2024-08-10,Cash
+886,Male,32,Single,Analyst,London,2023-06-05,Cash
+887,Female,28,Married,Analyst,Manchester,2024-10-20,Card
+888,Female,36,Single,Doctor,Birmingham,2024-04-15,Card
+889,Male,57,Single,Analyst,London,2023-06-07,Card
+890,Male,42,Single,Analyst,Glasgow,2023-09-30,Card
+891,Female,18,Single,Trader,Birmingham,2024-09-17,Cash
+892,Male,40,Single,Engineer,London,2023-10-19,Card
+893,Male,23,Married,Trader,Leeds,2023-10-28,Card
+894,Male,42,Married,Analyst,Glasgow,2024-05-31,Cash
+895,Male,56,Single,Engineer,Manchester,2023-08-22,Mobile Money
+896,Male,42,Married,Doctor,Manchester,2024-01-12,Mobile Money
+897,Male,18,Married,Engineer,London,2023-12-25,Mobile Money
+898,Female,22,Single,Doctor,London,2024-09-01,Cash
+899,Female,58,Married,Analyst,Manchester,2025-02-13,Cash
+900,Male,41,Married,Analyst,Leeds,2024-09-09,Cash
+901,Female,35,Married,Doctor,Birmingham,2025-03-04,Card
+902,Female,37,Married,Analyst,Birmingham,2023-11-14,Cash
+903,Female,33,Single,Doctor,Leeds,2024-11-21,Mobile Money
+904,Female,61,Single,Engineer,London,2023-12-16,Cash
+905,Male,34,Married,Trader,Leeds,2024-06-03,Mobile Money
+906,Male,40,Married,Teacher,London,2023-07-12,Cash
+907,Female,23,Single,Trader,Glasgow,2023-07-12,Mobile Money
+908,Female,60,Single,Engineer,Manchester,2025-03-29,Card
+909,Male,63,Single,Trader,London,2024-11-19,Card
+910,Male,32,Single,Teacher,Manchester,2024-02-13,Cash
+911,Female,26,Single,Engineer,London,2024-10-31,Cash
+912,Female,65,Married,Trader,Glasgow,2023-09-12,Card
+913,Male,23,Single,Doctor,Glasgow,2023-06-09,Cash
+914,Male,39,Single,Teacher,Glasgow,2024-12-04,Mobile Money
+915,Male,61,Single,Teacher,Leeds,2024-11-28,Cash
+916,Male,21,Single,Trader,Manchester,2024-12-15,Mobile Money
+917,Female,20,Married,Teacher,London,2023-10-19,Card
+918,Female,50,Married,Engineer,London,2023-11-23,Cash
+919,Male,29,Married,Trader,Manchester,2023-06-25,Card
+920,Female,50,Single,Doctor,London,2024-01-24,Mobile Money
+921,Female,37,Single,Doctor,Manchester,2024-12-12,Cash
+922,Male,52,Married,Engineer,London,2023-10-09,Cash
+923,Female,28,Married,Teacher,London,2024-11-08,Cash
+924,Male,65,Married,Analyst,Manchester,2023-08-13,Card
+925,Female,41,Single,Doctor,London,2024-03-14,Cash
+926,Female,51,Single,Doctor,London,2024-11-04,Card
+927,Male,31,Married,Analyst,Glasgow,2023-10-12,Cash
+928,Male,26,Married,Doctor,Glasgow,2025-03-13,Card
+929,Female,61,Married,Engineer,London,2024-04-03,Card
+930,Male,51,Single,Engineer,Birmingham,2024-07-25,Card
+931,Male,22,Married,Doctor,Glasgow,2024-01-31,Card
+932,Female,52,Married,Engineer,London,2023-07-12,Cash
+933,Male,54,Married,Teacher,London,2025-02-04,Cash
+934,Male,29,Married,Doctor,Leeds,2024-09-02,Mobile Money
+935,Female,27,Married,Doctor,Manchester,2024-07-15,Cash
+936,Male,19,Single,Doctor,Leeds,2025-02-26,Card
+937,Male,41,Single,Analyst,Leeds,2024-03-27,Mobile Money
+938,Male,55,Single,Analyst,Glasgow,2024-01-26,Card
+939,Male,33,Single,Teacher,Leeds,2024-10-18,Mobile Money
+940,Male,48,Married,Analyst,Glasgow,2024-12-31,Card
+941,Male,52,Single,Trader,London,2025-01-13,Cash
+942,Female,63,Single,Engineer,Birmingham,2023-07-15,Mobile Money
+943,Female,18,Married,Teacher,Glasgow,2024-11-12,Cash
+944,Male,45,Married,Engineer,Glasgow,2024-09-06,Card
+945,Female,35,Single,Engineer,Leeds,2024-10-10,Mobile Money
+946,Female,49,Married,Doctor,London,2024-11-09,Card
+947,Female,25,Married,Teacher,London,2025-01-30,Cash
+948,Male,59,Married,Teacher,Glasgow,2025-01-28,Mobile Money
+949,Female,61,Married,Analyst,Manchester,2024-03-17,Mobile Money
+950,Male,62,Married,Analyst,Glasgow,2024-04-10,Mobile Money
+951,Male,58,Single,Trader,Birmingham,2023-12-24,Mobile Money
+952,Male,25,Married,Doctor,Birmingham,2024-06-23,Cash
+953,Female,31,Single,Doctor,Birmingham,2024-07-30,Card
+954,Male,37,Single,Trader,Glasgow,2023-10-05,Cash
+955,Female,57,Single,Doctor,Birmingham,2024-11-26,Card
+956,Male,48,Married,Trader,Glasgow,2024-02-14,Card
+957,Female,19,Single,Teacher,Birmingham,2024-05-04,Mobile Money
+958,Male,32,Married,Engineer,London,2024-03-19,Cash
+959,Male,24,Single,Engineer,Birmingham,2023-07-16,Card
+960,Male,30,Married,Analyst,Glasgow,2025-01-29,Mobile Money
+961,Female,34,Single,Teacher,Leeds,2025-01-26,Cash
+962,Female,23,Married,Doctor,Glasgow,2024-11-28,Cash
+963,Female,19,Single,Doctor,Manchester,2023-07-03,Card
+964,Male,62,Single,Teacher,Glasgow,2024-05-21,Card
+965,Male,28,Married,Teacher,Manchester,2024-10-20,Cash
+966,Female,26,Married,Doctor,Birmingham,2024-04-27,Mobile Money
+967,Male,41,Married,Engineer,Glasgow,2023-07-07,Mobile Money
+968,Male,62,Single,Teacher,Glasgow,2024-04-27,Card
+969,Female,49,Single,Engineer,Leeds,2023-07-05,Cash
+970,Male,47,Single,Trader,Birmingham,2023-12-26,Card
+971,Male,19,Single,Engineer,Glasgow,2024-07-15,Mobile Money
+972,Female,55,Single,Engineer,Glasgow,2024-08-04,Cash
+973,Female,59,Single,Trader,Glasgow,2024-02-26,Cash
+974,Female,30,Married,Doctor,Manchester,2023-09-22,Card
+975,Male,57,Single,Trader,Manchester,2023-08-25,Mobile Money
+976,Male,29,Married,Teacher,Manchester,2024-10-28,Cash
+977,Male,42,Married,Doctor,London,2023-10-22,Cash
+978,Female,30,Married,Analyst,Birmingham,2023-12-30,Mobile Money
+979,Male,52,Single,Teacher,Birmingham,2023-09-20,Card
+980,Female,28,Married,Trader,Leeds,2025-03-16,Mobile Money
+981,Male,20,Single,Trader,Glasgow,2024-04-23,Card
+982,Male,20,Married,Engineer,London,2023-10-16,Card
+983,Female,38,Married,Analyst,Leeds,2023-07-18,Card
+984,Male,52,Married,Doctor,Leeds,2025-04-05,Card
+985,Male,38,Married,Teacher,London,2025-04-04,Mobile Money
+986,Male,35,Single,Trader,Manchester,2023-10-30,Card
+987,Male,20,Single,Doctor,Glasgow,2025-03-22,Card
+988,Female,59,Single,Trader,Manchester,2024-07-04,Mobile Money
+989,Female,20,Married,Doctor,Leeds,2023-11-20,Card
+990,Male,31,Married,Doctor,Manchester,2025-02-09,Card
+991,Male,25,Single,Analyst,Birmingham,2023-12-29,Cash
+992,Female,24,Married,Teacher,Birmingham,2025-01-15,Card
+993,Male,31,Single,Trader,Leeds,2023-11-18,Cash
+994,Female,33,Single,Teacher,London,2023-08-02,Mobile Money
+995,Male,39,Married,Doctor,Manchester,2025-03-04,Mobile Money
+996,Male,42,Married,Trader,London,2023-07-07,Card
+997,Female,18,Single,Trader,Birmingham,2024-06-17,Cash
+998,Male,20,Single,Doctor,Leeds,2025-04-14,Card
+999,Male,26,Married,Teacher,Manchester,2024-07-16,Mobile Money
